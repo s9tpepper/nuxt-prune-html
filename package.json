@@ -1,7 +1,7 @@
 {
-    "name": "@luxdamore/nuxt-prune-html",
+    "name": "@s9tpepper/nuxt-prune-html",
     "description": "🔌⚡ Nuxt module to prune html before sending it to the browser (it removes elements matching CSS selector(s)), useful for boosting performance showing a different HTML for bots/audits by removing all the scripts with dynamic rendering",
-    "homepage": "https://luxdamore.github.io/nuxt-prune-html",
+    "homepage": "https://s9tpepper.github.io/nuxt-prune-html",
     "keywords": [
         "nuxt-module",
         "vuejs",
@@ -26,10 +26,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/LuXDAmore/nuxt-prune-html.git"
+        "url": "https://github.com/s9tpepper/nuxt-prune-html.git"
     },
     "bugs": {
-        "url": "https://github.com/LuXDAmore/nuxt-prune-html/issues"
+        "url": "https://github.com/s9tpepper/nuxt-prune-html/issues"
     },
     "publishConfig": {
         "access": "public"
@@ -44,6 +44,9 @@
     "contributors": [
         {
             "name": "Luca Iaconelli <lucabelli@msn.com> (https://lucaiaconelli.it)"
+        },
+        {
+            "name": "Omar Gonzalez <s9tpepper@apache.org>"
         }
     ],
     "scripts": {

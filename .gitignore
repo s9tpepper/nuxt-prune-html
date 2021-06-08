@@ -8,6 +8,7 @@ bower_components
 .nuxt
 coverage
 dist
+package-lock.json
 
 # Generated
 src/**/sw.js
@@ -29,3 +30,4 @@ report.*
 *.njsproj
 *.sln
 *.sw*
+.history
