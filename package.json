@@ -38,7 +38,7 @@
         "lib"
     ],
     "main": "lib/module.js",
-    "version": "2.0.6-fork.2",
+    "version": "2.0.6-fork.3",
     "license": "MIT",
     "author": "Luca Iaconelli <lucabelli@msn.com> (https://lucaiaconelli.it)",
     "contributors": [
@@ -76,6 +76,7 @@
         "mobile-detect": "^1.4.4"
     },
     "devDependencies": {
+        "@babel/cli": "^7.14.3",
         "@babel/core": "^7.12.10",
         "@babel/preset-typescript": "^7.12.13",
         "@babel/runtime-corejs3": "^7.12.5",
@@ -96,6 +97,7 @@
         "@vue/eslint-config-prettier": "^6.0.0",
         "babel-eslint": "^10.1.0",
         "babel-jest": "^26.6.3",
+        "babel-preset-env": "^1.7.0",
         "codecov": "^3.8.1",
         "core-js": "^3.8.3",
         "eslint": "^7.19.0",
